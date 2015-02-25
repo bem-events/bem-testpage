@@ -1,0 +1,6 @@
+block('traveller')(
+	tag()('a'),
+	attrs()(function() {
+		return { href: '' };
+	})
+);
